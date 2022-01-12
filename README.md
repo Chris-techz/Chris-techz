@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-techz;
-- 👀 I’m studying programmation; 
-- 🌱 I’m currently learning C++ and Java;
+- 👀 I’m studying computer sciences; 
+- 🌱 I’m currently doing a third degree bachelor;
 - 📫 Contact_me(christophegougis@gmail.com);
 - Return 0;
